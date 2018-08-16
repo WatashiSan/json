@@ -583,7 +583,7 @@ std::cout << j << std::endl;
 ns::person p2 = j;
 
 // that's it
-assert(p == p2);
+assert(p == p2);}}
 ```
 
 #### Basic usage
